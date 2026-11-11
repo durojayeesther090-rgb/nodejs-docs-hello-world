@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: esther-node-app-123
+  AZURE_WEBAPP_NAME: estherD-node-web-app
 
 jobs:
   deploy:
