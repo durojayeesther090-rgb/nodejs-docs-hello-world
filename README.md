@@ -3,7 +3,7 @@
 A simple Node.js "Hello World" web app, forked from [Azure-Samples/nodejs-docs-hello-world](https://github.com/Azure-Samples/nodejs-docs-hello-world), with automated build and deployment to **Azure App Service** using GitHub Actions.
 
 ## Live app
-https://[YOUR-WEB-APP-NAME].azurewebsites.net
+https://estherd-node-web-app.azurewebsites.net
 
 > Note: the Azure environment was created in a temporary KodeKloud playground, so the link may no longer be active. See the screenshots below for proof of deployment.
 
